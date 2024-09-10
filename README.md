@@ -8,7 +8,7 @@ The Logo Generator is a Node.js command-line application that allows users to cr
 
 Please feel free to use the video tutorial below in order to help guide you through the process
 
-[Video Tutorial]()
+[Video Tutorial](https://drive.google.com/file/d/1hVSF2bybLcawQrvQLnXz0grAyCTreATf/view)
 
 # Usage
 To use the Logo Generator, follow these steps:
